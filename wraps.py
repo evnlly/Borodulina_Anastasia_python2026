@@ -13,7 +13,7 @@ def trace(f):
 
 @trace
 def say_hi():
-    """I'm stupid"""
+    """I'm stupid!!!""
     print('hi!')
 
 
